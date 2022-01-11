@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/iamfiropo": {
+      "name": "/iamfiropo",
+      "lambdaFunction": "lambdaAPIFunc",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
